@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ulariali.github.io/sitemap.html.gz
+Sitemap: https://ulariali.github.io/app/sitemap.html.gz
+Sitemap: https://ulariali.github.io/assets/sitemap.html.gz
+Sitemap: https://ulariali.github.io/css/sitemap.html.gz
+Sitemap: https://ulariali.github.io/includes/sitemap.html.gz
+Sitemap: https://ulariali.github.io/item/sitemap.html.gz
+Sitemap: https://ulariali.github.io/src/sitemap.html.gz
